@@ -111,6 +111,8 @@ Route::get('/test', function(){
     // dd()
 });
 ```
+***********************************************************************
+npm install @heroicons/vue
 
 
 ### Refrences
