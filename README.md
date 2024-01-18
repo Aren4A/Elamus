@@ -15,20 +15,17 @@ Kuressaare Ametikooli tarkvaraprojekt.
 https://www.figma.com/file/am5qMEclyqA27qcDolzW0I/Elamusteenused?type=design&node-id=1%3A2&mode=design&t=tWHFjWPQEgrYCUrP-1
 
 
-*TOOTELEHT
-![toote_leht](https://github.com/aliinS/Elamusteenused/assets/113007378/88a280cf-fffa-4c3b-a6c3-0134b7f7c8e0)
-
-*ANDMEBAASI ALUSTAMINE
-![datastructure](https://github.com/aliinS/Elamusteenused/assets/113007378/a5b1cd55-0c47-46cf-870d-f3cfdc9e3f9f)
-
-*FUNKTSIOONID
-![klient-user](https://github.com/aliinS/Elamusteenused/assets/113007378/0f772423-48fd-44da-9efd-3030f95167ee)
-
-
 
 ## PILDIMATERJALI
 *AVALEHT
-![avaleht](https://github.com/aliinS/Elamusteenused/assets/113007378/121d8ed5-2015-4ea8-bb3d-ee1a09ab2d66)
+![avaleht](https://github.com/Aren4A/Elamus/assets/113007378/bd7be3c2-8745-4fad-81ed-c580478f04a5)
 
 *TOOTELEHT
-![toote_leht](https://github.com/aliinS/Elamusteenused/assets/113007378/88a280cf-fffa-4c3b-a6c3-0134b7f7c8e0)
+![toote_leht](https://github.com/Aren4A/Elamus/assets/113007378/10636efe-8f9e-4df1-a788-ded0f7e5dcd7)
+
+*ANDMEBAASI ALUSTAMINE
+![datastructure](https://github.com/Aren4A/Elamus/assets/113007378/fcfb2ecc-484b-49bd-a231-34774338e631)
+
+*FUNKTSIOONID
+![klient-user](https://github.com/Aren4A/Elamus/assets/113007378/b5960a52-8a71-4927-9e89-9aca4b623a08)
+
