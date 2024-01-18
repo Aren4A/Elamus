@@ -112,8 +112,11 @@ Route::get('/test', function(){
 });
 ```
 
-
 ### Refrences
 - [Eloquent: Relationships](https://laravel.com/docs/10.x/eloquent-relationships)
 - [dd()](https://laravel.com/docs/10.x/helpers#method-dd)
+
+***********************************************************************
+npm install @heroicons/vue
+
 
