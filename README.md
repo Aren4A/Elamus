@@ -111,11 +111,12 @@ Route::get('/test', function(){
     // dd()
 });
 ```
-***********************************************************************
-npm install @heroicons/vue
-
 
 ### Refrences
 - [Eloquent: Relationships](https://laravel.com/docs/10.x/eloquent-relationships)
 - [dd()](https://laravel.com/docs/10.x/helpers#method-dd)
+
+***********************************************************************
+npm install @heroicons/vue
+
 
